@@ -43,7 +43,7 @@
       "pkgDate": "10/19/2024 11:39:25 AM",
       "pkgURL": "https://github.com/Jenova-Framework/Jenova-Packages/releases/download/jenova-godot-kit-pkg-4.3.05/Jenova-GodotSDK-4.3.05-x64.7z",
       "pkgDestination": "res://Jenova/Packages/GodotSDK-4.3.05",
-      "pkgInstallScript": true,
+      "pkgInstallScript": false,
       "pkgUninstallScript": false
     },
     {
@@ -58,7 +58,7 @@
       "pkgDate": "12/18/2024 9:06:39 AM",
       "pkgURL": "https://github.com/CycloneRing/Jenova-Packages/releases/download/gnu1/JenovaGNUCompiler-13.3.0.7z",
       "pkgDestination": "res://Jenova/Packages/JenovaGNUCompiler-13.3.0",
-      "pkgInstallScript": false,
+      "pkgInstallScript": true,
       "pkgUninstallScript": false
     }
   ]
